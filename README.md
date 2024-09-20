@@ -1,2 +1,2 @@
 # MY-CVE
-Some cves
+Some cves.
